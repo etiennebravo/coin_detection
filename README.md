@@ -1,4 +1,4 @@
-Coin Detection
+### Coin Detection
 Program processes an image and detects circles.
 
 ![alt text](https://github.com/etiennebravo/coin_detection/blob/main/coinsDetected.png?raw=true)
